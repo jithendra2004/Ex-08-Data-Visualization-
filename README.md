@@ -19,8 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Name:R Hemapriya
-Register.number:212221230036
+Name:V A Jithendra
+Register.number:212221230043
 
 
 import pandas as pd
@@ -101,32 +101,33 @@ grid.add_legend()
 ```
 
 # OUPUT
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.1.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.1.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.2.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.2.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.3.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.3.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.4.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.4.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.5.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.5.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.6.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.6.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.7.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.7.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.8.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.8.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.9.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.9.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.10.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.10.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.11.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.11.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.12.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.12.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.13.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.13.png)
 
-![output](https://github.com/Hemapriya-2004/Ex-08-Data-Visualization-/blob/main/1.14.png)
+![output](https://github.com/jithendra2004/Ex-08-Data-Visualization-/blob/main/1.14.png)
+
 ## RESULT:
 Data Visualization on a complex dataset and save the data to a file has been performed.
